@@ -1,5 +1,5 @@
 # Signal Analysis
-A collection of the projects I made about signal analysis with their relative reports.
+A collection of the projects I made in collaboration with Anna Fusari&nbsp;([@AnnaFusari](https://github.com/AnnaFusari)) about signal analysis retrieval with their relative reports.
 
 ### Source Position Identification
 The aim of this project is to perform DOA estimation. Simply speaking, we want to identify the angular position with respect to the
